@@ -1,0 +1,13 @@
+filename = 'graves-3.2.0+1.20.3.jar'
+name = 'Universal Graves'
+side = 'both'
+
+[download]
+hash = 'd89054672cf27577e01d5c288151cedf4b3c3e2c2f0590376f0cc56e3a99d243f6fef945be1fc67aec5442ee610f80dc9d133eb6a9e55dca6e17a7e3b7687221'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yn9u3ypm/versions/LM07HkNo/graves-3.2.0%2B1.20.3.jar'
+
+[update.modrinth]
+mod-id = 'yn9u3ypm'
+version = 'LM07HkNo'

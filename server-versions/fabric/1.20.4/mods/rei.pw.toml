@@ -1,0 +1,13 @@
+filename = 'RoughlyEnoughItems-14.0.688-fabric.jar'
+name = 'Roughly Enough Items (REI)'
+side = 'both'
+
+[download]
+hash = '2e60506456edf6639efc841131d81a792872c528d573562042007966a25acbebdde7ef1f8ecfadd69f5d75b0233efa1f97c3ba9f3c95bd9286bd156a45a16d88'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nfn13YXA/versions/Jhw0fDTs/RoughlyEnoughItems-14.0.688-fabric.jar'
+
+[update.modrinth]
+mod-id = 'nfn13YXA'
+version = 'Jhw0fDTs'

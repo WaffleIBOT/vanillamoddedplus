@@ -1,0 +1,13 @@
+name = "VanillaModdedPlusServer"
+author = "WaffleIBOT"
+version = "1.0.0+1.20.4.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a849bbbc6cae57f343898414c2eb9735626217a5e72438dd31edac95cb39ee99"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.4"

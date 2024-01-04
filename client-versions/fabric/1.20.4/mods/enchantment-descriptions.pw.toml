@@ -1,0 +1,13 @@
+filename = 'EnchantmentDescriptions-Fabric-1.20.4-20.0.1.jar'
+name = 'Enchantment Descriptions'
+side = 'client'
+
+[download]
+hash = '4730433a2774c1c39e80f163d00fd98bf76c121f15153d4c0bb228cc2c23ab6b1f64115e36aafd85068673f5aaa4384a229cdffb6aa8ec699094313b8529710b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UVtY3ZAC/versions/yltXabOE/EnchantmentDescriptions-Fabric-1.20.4-20.0.1.jar'
+
+[update.modrinth]
+mod-id = 'UVtY3ZAC'
+version = 'yltXabOE'

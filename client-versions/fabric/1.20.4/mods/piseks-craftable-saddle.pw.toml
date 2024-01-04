@@ -1,0 +1,13 @@
+filename = 'piseks-craftable-saddle-1.0.jar'
+name = 'Craftable Saddle'
+side = 'both'
+
+[download]
+hash = 'fd72819cd6c8a614ffa24d938485af6573699101128fe6820140c45017a0d04dc2642cfa6b30d290d65dd39eb9be2ae5eca98b79efd6db300a1c03a104f601d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PamPmbXh/versions/sZpA6Rei/piseks-craftable-saddle-1.0.jar'
+
+[update.modrinth]
+mod-id = 'PamPmbXh'
+version = 'sZpA6Rei'

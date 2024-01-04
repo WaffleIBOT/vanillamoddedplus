@@ -1,0 +1,13 @@
+name = "VanillaModdedPlus"
+author = "WaffleIBOT"
+version = "1.0.0+1.20.4.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "798c810c2e23952403e120cdd63a31049d81e546b8d02f78ddbca531e0731911"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.4"

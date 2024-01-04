@@ -1,0 +1,13 @@
+filename = 'nonarrator-1.0.1.jar'
+name = 'NoNarrator'
+side = 'client'
+
+[download]
+hash = '008423c0ef0fba4384c8fd3d11e935b8e11adf8a8340114f1e7ffd04e822d0c09ab9303e9aa0b9a514f1b8894fa30cf92c7f506801fbbfd9fcf35d3f096c7490'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1ufrSla2/versions/m737nOdC/nonarrator-1.0.1.jar'
+
+[update.modrinth]
+mod-id = '1ufrSla2'
+version = 'm737nOdC'

@@ -1,0 +1,13 @@
+filename = 'terrestria-6.2.0.jar'
+name = 'Terrestria'
+side = 'both'
+
+[download]
+hash = '320ad33c25735fd85f62f21e36fc1c919ce5dc4696bd6516cb40fe8edf8c8f6649e7e7ab97cf0b0ce59c32b43324d799ec5f0e43517e33e65f67bbdbcafc2632'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lsUDPMOT/versions/eFQKGDLf/terrestria-6.2.0.jar'
+
+[update.modrinth]
+mod-id = 'lsUDPMOT'
+version = 'eFQKGDLf'

@@ -1,0 +1,13 @@
+filename = 'nmuk-1.1.1+mc1.20.4.jar'
+name = 'No More Useless Keys - NMUK'
+side = 'client'
+
+[download]
+hash = '33681162249825b184f15234d7f5f59b1ea307b91171bd04d17d390c48c7ef9154785661962dec4de831db2f99640e9ca0b6782a14b9151f9a1afa795d83028a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YCcdA1Lp/versions/JHauE0Gf/nmuk-1.1.1%2Bmc1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'YCcdA1Lp'
+version = 'JHauE0Gf'

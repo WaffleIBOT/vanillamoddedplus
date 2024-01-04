@@ -1,0 +1,13 @@
+filename = 'architectury-11.0.9-fabric.jar'
+name = 'Architectury API'
+side = 'both'
+
+[download]
+hash = '52c667fd8e4aa4adad7fce09892a61e597ab9b412ade92481a40316098a8a3ea52ee46ff9dd4ff0dfb26c004ebd31540bb95b2f24530a105b52b02a0c6ea2632'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lhGA9TYQ/versions/ekLaVOwe/architectury-11.0.9-fabric.jar'
+
+[update.modrinth]
+mod-id = 'lhGA9TYQ'
+version = 'ekLaVOwe'

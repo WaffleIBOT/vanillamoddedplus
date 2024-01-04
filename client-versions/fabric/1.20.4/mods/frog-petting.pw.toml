@@ -1,0 +1,13 @@
+filename = 'frog-petting-1.0-1.20.X.jar'
+name = 'Pet the Frog'
+side = 'client'
+
+[download]
+hash = '2f58eb79f348290781431e8594f7571fcf4ffe4b56920e27862e2cbec3b10b11e733df2b44050112d9d30fec0732a3074b161946955d9198137061fa129964a5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gDxQ0Xdq/versions/Ec08BdNv/frog-petting-1.0-1.20.X.jar'
+
+[update.modrinth]
+mod-id = 'gDxQ0Xdq'
+version = 'Ec08BdNv'

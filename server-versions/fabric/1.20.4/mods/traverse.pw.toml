@@ -1,0 +1,13 @@
+filename = 'traverse-7.2.0.jar'
+name = 'Traverse'
+side = 'both'
+
+[download]
+hash = '7bdecc2c134841e86448a8fd09e35b52d8aa91778d49f34863889dfcc850783384ecb8efc8e59b205101b455bc1e80712e6cf2b3195013f38e15786a10587dd4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kXygSBVI/versions/SnSfjgw5/traverse-7.2.0.jar'
+
+[update.modrinth]
+mod-id = 'kXygSBVI'
+version = 'SnSfjgw5'

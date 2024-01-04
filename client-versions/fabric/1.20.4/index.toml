@@ -1,0 +1,472 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "0bbc8508a29dcdca3194fa616fce25ece2b79c150c9ff6f535e37de75e340761"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "e0175393f767dc9d1c61ee6b69db461ea1d6d26b76c6f07503d6724edd009c89"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "a03fcc52bfafece66e5a0a96daa12c47741af66cbf06bab330a1b0bea32abceb"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "9e70d181078e832bce21c8a9b6870dd76631f3bafaa0b4057c45c9a8751f0d91"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "2dcaab476ba54a00113e47f5c3b6d4805d475c6d4076227ae75dc94087f87df8"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "f1bc625787e3544ec1417d8fdaac4249377e3b6f024e7c8622f255ebc24f8c55"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "55e693cdf40a6cb56a41eba09141c49ade93995642807ef4ac39e8d1233507f2"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "13d3a1184d854afe6e07dc73c71e0294255fc19eb8c35449beae8de779d9998c"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "b4b317a46f27e90073994b1972e2654dc6f95dd83d218dcd2d67c78305fcf877"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "4ff8a95c592c77e63f6225e90d6a053889efb687e8c5f7673725c03bc0c1df47"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "4681198a82042437b75862b67dd4eae14a5ff5b86acee09810f74bfd240bd4e9"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "b3ad2f33dd54ea1ddab09995089406690b49ca0a57be3d8f3f2245dd6596fc09"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ee96996c6438f4c549e3eddf180477123887a7676874f292cb167dc45047f044"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5a0235edf5eee930a06cb62b42b40399d9038f577324ff21d603ff3fe418005c"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "86b80d4c2b19ee1b16b4721b587ff3d367deaff977a1eda75a2faf0bfd7e47c0"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "60dbf6b9916d8056addf3d46ee3723941941a702bab82072107cba2ac7144195"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "486ae8a0b1bcb0e4949a54db0821a53917238eb3755d74069ff8c7f28419dea3"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "54b98adb6e64870d2632b0862047415bc3127c8c5c06ac26cc9033785e978ee2"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "d45ebfcbc0261ac19e005bdd617a6fbf1c69e0b0e88a95322c61af80c5724434"
+metafile = true
+
+[[files]]
+file = "mods/brb.pw.toml"
+hash = "1cd4accb92c9c22479a8305de678635906f17437acd03e248862fa238e8d0043"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "ae25fbb6fef381f4eac0fed97df8cb90506236aef8021fd60250553ea0c7aae8"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "86002ec6069f7132c08edb31bc25cc4b7c3337bd913b0d15bf029710f6bc9ada"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "1bda5fa2772b059d79d46a6d583c638f124cfe05910bce9cc6d1bb079d823973"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "edf927d3b1a5e83343160607ef8a9449dc7b760493958f92e6c1e48d90c93536"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "f191b3852dfa57b1310f49ea444173846f386f1413b16b9243d77bfe06350370"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "f5fb0fb65068f47c02e9175cd1e59df8a09eda4246a1a50e64823e668306797d"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "ffe7a5d39013ca7005c12466d3d6896ed3d25d2ea2a8a153a7302f4f6553923e"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "b564467da1f2e29781b9841d733a4546647cc81cc79afddc17bd0378406c684b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "3f0569abb0a4edd1fcced1c41e8ad15c3b0ebdd6a60d149a789181054494534f"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "c282295cfdb46422a0001a2afe766a4377fa9a010d89548a50a3dcaa8ef8e2e1"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "03cf6775be754c38c35477a1953173f90584c714b594f416764b39c78e2ee26b"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "53c5c427573527d8081ff669cde1eeb1f600232f6c168a59e054a57aa75fc8c7"
+metafile = true
+
+[[files]]
+file = "mods/emuno.pw.toml"
+hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "6937f943ecbdd45d6bcbcf6545f2e66b49c27bc1f61dbec5af2b02f35392b072"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "3fd965ea497c8eb2f9559fde4cb81e1882ff810d805b2a2d0c9f40f508beb470"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afb6927356310cb727e2baa7bf2465e24577074df363cfc62b03aef224875d45"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b60c585b55e40f686d6f12f6bcd96ada712090fadc763297144f084d667273e5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "25507890500ceb9dac9a7e2074e5c4664ab44ff03cbdea64291146dbdfa04922"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "41dc3fa93a51b78f389051cdc1d02ebe43cbc0d14e02ed9cee13aae9cb5b5a56"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "df3cde25a9b2e8905ec2218d270e2af3b60035e985211b7bc50f8827955fb8c9"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "249dbfce7e633dbb124f221bebd71392c80720482a3d0986f040ae75293cd000"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "8b9d09e710456bff6de77a59ee030517d45eab35db35ac41971f53241225bc9a"
+metafile = true
+
+[[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+metafile = true
+
+[[files]]
+file = "mods/frog-petting.pw.toml"
+hash = "e698173b132a26b99fc444571dd887c92b1267c66b99154649f0c99f70660d33"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "b79fbb658a69dc6229f64ba057856e92094022cbf5c7646f773e8ce790147809"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "5a9cbc18b6bf48b4449365df1133166af548dad0dc4951315912eac687fa52a4"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "8e02d3856ede284a6cca9b34c5182392180d723b05e61b3b45911795f6230abd"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "73c712ef67f9ac3b61a82fa6a881ae64c47408634412f09788c7d8e3ca41aa30"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "7fad6b94e11a51bced31f5122a2c55a664e714b14632de4bf2d1bce59da9fa98"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "9cba69aaa440a1b15e1f21d3a70d5a20458a35c3bb10e9a152f07d40bfa5cd41"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "971b7bef0e939ef90e4f320f41c93589ec766fc0b26b5b4ffcc73c0728af13fb"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f3f04af560e1575bd62ef397acac8a8085cd48dcc0c1ea93f96b6c52782eb38a"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
+file = "mods/mo-glass.pw.toml"
+hash = "21ded141e46923070beb76ac5ae0f87ee665e8c1770ee2f8c35320cb43c4b4b9"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ff71edcc60b1b1f65e92a9ad7cacb0f6c982afbe6bbe0e6769abd05898c49bd3"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "74842ccbe4d468c03286203522602a0b5d8e53804569cc60d97b477f2532cc1a"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "146aa1d039c787ffa8a74f878dd2dfd0ce6539f43d043a214d218a023c743ae7"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c459ac1c6cb111852d0b82951b395e4c8afeedc35bb7906f8eb8c6c2f575ae9"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "6782cb79dd5a9a595249c820276faf649afbc33b75ef4c851e7b9b8bacacff10"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "813d2fb4017f7d30a37a04bafc34940502e404e3191391e5624f51decf65105d"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "9ef2289c575de25bf0a73972e41380792975798971b1dd2d9128f2f16005ca02"
+metafile = true
+
+[[files]]
+file = "mods/nonarrator.pw.toml"
+hash = "12bebae4aa2dc9a73a8f6bad693d2312000b55fa6d64d29a75a6afe266c1314a"
+metafile = true
+
+[[files]]
+file = "mods/piseks-craftable-saddle.pw.toml"
+hash = "62980008c66dcca785a51cce432e4e44fb780f3642180724933d0380dced1c2d"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "28a89220513ebf5e45c20cd39acbd855d02b124c692abd57c361538049d91903"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "fb163ff6d4fc70632f1b356abb6399c971987fe981424dc66ca1f5bf2f39fef9"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "1461fa7b0915e77098a3a6ae7012892cda8ca1327e920a2e1e129f09adf86cc4"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "9219157617042ffdbf30da0a66a42cc5e776403011e4e3146d99a398dc0c4a53"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "2d236acd94d562332efd4426148c32031f74bec85f9833726da7b5d9cad1e170"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "79e369b66cf90725b224339e1804d4039562d26f0ad4042939010b17daae6fa0"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "3d2c2a7848a9c158d9a401c6e0e1c7ac07afb6add55aa848b4678478b76fdc9a"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "000608ad9418f35b7dfc6b8b9d43b79945319fe2b8bf4fcdf9f6ff269cc251c5"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "6597dd39b60489e8c1f5db6de6920f7ee863a6ca6ea2c7a7a324e9e1a42d8e5d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "7b2c86641ea19baf25b82a5444b93944236e21dfa55c7ea8faf0aa59295eba6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "04283d5b3e0d49680dab187f03888b9e640b401e1edebb5b082dfc504bf2a406"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "c035f327fd1eea8987dc2c585aba13074e23263e606581a2fbea2e8088c6b9b5"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "97350d9123ff6c43010bd5326e2fc40ced6c82c1a253b5ee8081ea8d27cbdcc4"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "c9128d0ca9288e01b68a49fb9bd4ab45777b7dde09a510f99435f25bc14c4a6e"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "7231031a4049552a2a6945c8d38bf19570f15ed774dfd1f4ed496e89aa833d71"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "0174ae4c8adbcceda641574ca0d494651ec0f44cfb2251868c6cab72437926d0"
+metafile = true
+
+[[files]]
+file = "mods/whoami.pw.toml"
+hash = "eea792f6ddd3af1c1c12926cdb4a4eb5466b65bf2e1b4143fe291963093b07b2"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "0303f1aac890732f1c71fef442adde5b9394c085169f2c01d68ab2da22f8ca8d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "457889aafcbe80f814a6b1735a1e469603630138e8a962fe3124a38e4c72b356"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "814948bbf2f0386f3834416ef40f208de22bda982cceb777268ee599788c7294"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e84fc912d89ac46f78c461a6c00e92ea93dbf9ebc78a8cb8bff04e173e615ced"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "0620edcd851e4387e07a3b3b34f7f1e8fb1a3382ae689b14aaa3e088da0d6120"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "00f848f26b25ef2598e6599f3dadc867893d73e086d848cb2c318a19ba4c0491"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "873cc072ae826658a2bc30004c53c063477e34a364862d83cd2c306956d0f2f8"
+metafile = true
